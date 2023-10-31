@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "885187497157",
+    "project_id": "onlineshop-40200",
+    "storage_bucket": "onlineshop-40200.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885187497157:android:b0ce476f57c65ab53ef4ac",
+        "android_client_info": {
+          "package_name": "com.example.onloneshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPYMfAUMS_NkrX4FXOrQYpwoXzR7n1aYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885187497157:android:ad042064bd3a777d3ef4ac",
+        "android_client_info": {
+          "package_name": "com.example.shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPYMfAUMS_NkrX4FXOrQYpwoXzR7n1aYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
